@@ -7,7 +7,7 @@ This project builds an ETL pipeline to process 8GB of the search and content dat
 
 ## Dataset
 The dataset used for processing is the content data of April and the lookup data of June and July generated when customers use FPT telecom services:
-- [log content](#)
+- [log content](https://drive.google.com/drive/folders/1hFeS6lag4zwfakSQkTqyNWhg3R_5bGLc?usp=sharing)
 - [log search](https://github.com/dlduy33/ETL-pipeline-predict-customer-Behavior-and-Interaction/tree/main/log_search)
 
 ## ETL process description
