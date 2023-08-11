@@ -62,8 +62,9 @@ The task in this section is to build an ETL to support data analysis in June and
   - Because the system cannot meet the need to export the results, there will be no picture of the final result. 
 
 ## Requirements
-- [Python 3.10.9](https://www.python.org/downloads/release/python-3109/)
-- [Java 19.0.2](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html)
-- [Hadoop winunit.exe-2.7.1](https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe)
-- [Spark 3.3.1-bin-hadoop2](https://spark.apache.org/downloads.html)
+- [Python 3.10.9](https://www.python.org/downloads/release/python-3109/): Prepare to run Apache Spark
+- [Java 19.0.2](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html): Prepare to run Apache Hadoop
+- [Hadoop winunit.exe-2.7.1](https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe): Prepare to run Apache Spark
+- [Spark 3.3.1-bin-hadoop2](https://spark.apache.org/downloads.html): Key Framework to build ETL pipeline
 - [Install Apache PySpark](https://www.youtube.com/watch?v=OmcSTQVkrvo)
+- MySQL: Use to as Data Warehouse
